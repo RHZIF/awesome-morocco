@@ -237,6 +237,7 @@ With Symfony and Laravel implementations. by [@yoeunes](https://github.com/yoeun
 - [Athena](https://github.com/yezz123/Athena) - Test your Security Skills, and Clean Code Development as a Pythonist, Hacker & Warrior by [@yezz123](https://github.com/yezz123)
 - [FRDP](https://github.com/BnademOverflow/FRDP) - Boilerplate code for quick docker implementation of REST API with JWT Authentication using FastAPI, PostgreSQL and PgAdmin by [@yezz123](https://github.com/yezz123)
 - [Apollo](https://github.com/yezz123/Apollo) - A basic Application with multiple functionalities built with FastAPI aim to help Users Buy New Items Provided using PaypalAPI by [@yezz123](https://github.com/yezz123)
+- [CasaBourseLib](https://github.com/RHZIF/Casabourselib) - A Python package for retrieving financial data from the Casablanca stock exchange official website [@RHZIF](https://github.com/RHZIF)
 
 #### Go
 
